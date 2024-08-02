@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package >
+  <metadata>
+    <id>RetailWay.Types</id>
+    <version>$version$</version>
+    <title>RetailWay.Types</title>
+    <authors>RetailWay</authors>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <license type="expression">MIT</license>
+    <description>Types and Enumerations for a retail application</description>
+    <repository type="git" url="https://github.com/retailway/RetailTypes"/>
+    <copyright>$copyright$</copyright>
+    <tags>retail</tags>
+  </metadata>
+</package>
