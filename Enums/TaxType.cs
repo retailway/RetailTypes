@@ -2,6 +2,7 @@
 {
     public enum TaxType
     {
+        Unknown = -1,
         NDS10,
         NDS20,
         NDS110,
